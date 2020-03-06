@@ -289,7 +289,7 @@ ul li {
 	$Banner
 ========================================================================== */
 .banner {
-	background-image: url(../images/banner.jpg);
+	background-image: url(../images/hands.jpg);
 	background-position: center top;
 	background-repeat: no-repeat;
 	-moz-background-size: cover;
@@ -317,9 +317,9 @@ ul li {
 	line-height: 1.5;
 	margin-bottom: 1%;
 }
-/* ==========================================================================
-	$Teams
-========================================================================== */
+
+
+
 
 .intro-content {
 	margin-top: 20px;
@@ -344,9 +344,7 @@ ul li {
 	line-height: 30px;
 	letter-spacing: 1px;
 }
-/* ------------------------------------------------------------------------------
-	 Works
--------------------------------------------------------------------------------*/
+
 .work {
 	-moz-box-shadow: 0 0 0 1px #fff;
 	-webkit-box-shadow: 0 0 0 1px #fff;
